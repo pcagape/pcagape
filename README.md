@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paull Angielo Cagape</h1>
+<h1 align="center">Hi 👋, I'm Paul Angielo Cagape</h1>
 <h3 align="center">I'm a web developer and a game developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
