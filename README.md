@@ -3,19 +3,11 @@
 </p>
 <h3 align="center"></h3>
 
-### <div align="center">Hi, I'm a web developer and a game developer👨‍💻 been working with Frontend development since 2012. remotely since 2013 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+### <div align="center">Hi, I'm a web developer and a game developer👨‍💻 been working with Web Development since 2012 and have a 4years experience in Game Development producing HTML5 games 🚀</div>  
+- 🔭 I’m currently working as a Frontend React Developer
+- 🌱 I’m currently learning Game Development on Unity
+- ❓ Ask me about anything related to Javascript
+- ⚡ Fun fact: I prefer typing the codes than copy & paste
 
 # Skills & Experience
 <div align="center">
